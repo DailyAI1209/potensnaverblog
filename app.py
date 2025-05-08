@@ -829,8 +829,8 @@ def main():
     # 푸터
     st.markdown("""
     <div class="footer">
-        <p>© 2023 네이버 블로그 크롤러. 모든 권리 보유.</p>
-        <p style="font-size: 0.8rem; color: #666;">이 도구는 학습 및 연구 목적으로만 사용해 주세요.</p>
+        <p>©2025 주식회사 코멘토 © Copyright All rights reserved</p>
+        <p style="font-size: 0.8rem; color: #666;">이 자료는 ㈜ 코멘토의 허가 없이 복제, 배포, 수정할 수 없습니다.</p>
     </div>
     """, unsafe_allow_html=True)
 
